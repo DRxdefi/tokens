@@ -1,0 +1,11 @@
+{
+    "name": "DRx DeFi",
+    "website": "https://www.drxdefi.com/",
+    "description": "First SocialFi DEX, exclusive and native to Gatechain! ",
+    "explorer": "https://gatescan.org/address/0xc5c0B04e2D169FBec3477805b228dD17dc8c4E06",
+    "type": "GRC20",
+    "symbol": "DRX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc5c0B04e2D169FBec3477805b228dD17dc8c4E06"
+}
